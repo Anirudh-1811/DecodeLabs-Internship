@@ -1,5 +1,6 @@
 # Multi-Model Machine Learning Benchmark & Production Pipeline
 ## Project 2 Documentation | DecodeLabs AI Engineering Track
+AUTHOR: ANIRUDH BALAJI
 
 Welcome to the advanced validation and benchmarking repository for the DecodeLabs AI Engineering track. This project demonstrates an automated engineering pipeline designed to handle input sanitization, dynamic hyperparameter tuning, model performance showdown operations, matrix diagnostics, and active production emulation layer deployment.
 
@@ -36,8 +37,4 @@ Accepts variable data configurations dynamically with internal error protection 
 
 ---
 
-##  Dependencies & Installation
-Running the benchmark suite requires a standardized Python environment populated with core mathematical processing modules:
 
-```bash
-pip install numpy scikit-learn
