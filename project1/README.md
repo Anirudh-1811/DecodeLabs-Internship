@@ -1,5 +1,6 @@
 # Rule-Based AI Chatbot Logic Engine
 ## Project 1 Documentation | DecodeLabs AI Engineering Track
+AUTHOR: ANIRUDH BALAJI
 
 Welcome to the foundation phase documentation for the DecodeLabs AI Engineering track. This repository establishes clear, predictable control flow and deterministic logic before moving into probabilistic models. This transparent framework is built entirely on strict programmatic decision-making to guarantee absolute execution predictability and zero hallucination risk. 
 
@@ -52,7 +53,4 @@ Users do not need to worry about accidental capitalization typos or erratic spac
 * Entering an irregularly spaced or capitalized greeting (e.g., `"  HeLlO "`) is instantly rectified to lowercase format (`"hello"`) to serve the matching response.
 * Any completely unrecognized phrase safely routes to the default fallback statement without breaking the execution loop.
 
-### Running the Program
-Execute the script directly from your terminal using standard system execution commands:
-```bash
-python chatbot_engine.py
+
